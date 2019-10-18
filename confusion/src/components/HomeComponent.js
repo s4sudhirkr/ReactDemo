@@ -16,7 +16,7 @@ function RenderCard({ item }) {
                 <Row>
             <Card body inverse style={{ backgroundColor: '#333', borderColor: '#333' }}>
 
-                <CardImg src="/assets/images/index.jpg" alt={item.name}  />
+                <CardImg src="/ReactDemo/assets/images/index.jpg" alt={item.name}  />
                 <CardImgOverlay color="danger">
 
                     <CardTitle color="danger" size="100"><span ><b>JMK Sarv Jeev Kalyan Sanstha, working in the field of Health & sustainable development since April, 2016.  </b> </span>

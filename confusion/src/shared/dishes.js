@@ -3,7 +3,7 @@ export const DISHES =
         {
             id: 0,
             name: 'Event1',
-            image: '/assets/gallery/1.jpg',
+            image: '/ReactDemo/assets/gallery/1.jpg',
             category: 'mains',
             label: 'Hot',
             price: '4.99',
@@ -13,7 +13,7 @@ export const DISHES =
         {
             id: 1,
             name: 'Event12',
-            image: '/assets/gallery/2.jpg',
+            image: '/ReactDemo/assets/gallery/2.jpg',
             category: 'appetizer',
             label: '',
             price: '1.99',
@@ -23,7 +23,7 @@ export const DISHES =
         {
             id: 2,
             name: 'Event3',
-            image: '/assets/gallery/3.jpg',
+            image: '/ReactDemo/assets/gallery/3.jpg',
             category: 'appetizer',
             label: 'New',
             price: '1.99',
@@ -33,7 +33,7 @@ export const DISHES =
         {
             id: 3,
             name: 'Event4',
-            image: '/assets/gallery/4.jpg',
+            image: '/ReactDemo/assets/gallery/4.jpg',
             category: 'dessert',
             label: '',
             price: '2.99',
@@ -43,7 +43,7 @@ export const DISHES =
         {
             id: 4,
             name: 'Event5',
-            image: '/assets/gallery/5.jpg',
+            image: '/ReactDemo/assets/gallery/5.jpg',
             category: 'dessert',
             label: '',
             price: '2.99',
@@ -53,7 +53,7 @@ export const DISHES =
         {
             id: 5,
             name: 'Event6',
-            image: '/assets/gallery/6.jpeg',
+            image: '/ReactDemo/assets/gallery/6.jpeg',
             category: 'dessert',
             label: '',
             price: '2.99',
@@ -63,7 +63,7 @@ export const DISHES =
         {
             id: 6,
             name: 'Event7',
-            image: '/assets/gallery/7.jpeg',
+            image: '/ReactDemo/assets/gallery/7.jpeg',
             category: 'dessert',
             label: '',
             price: '2.99',
@@ -73,7 +73,7 @@ export const DISHES =
         {
             id: 7,
             name: 'Event8',
-            image: '/assets/gallery/8.jpg',
+            image: '/ReactDemo/assets/gallery/8.jpg',
             category: 'dessert',
             label: '',
             price: '2.99',
