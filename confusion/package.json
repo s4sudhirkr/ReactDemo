@@ -2,11 +2,12 @@
   "name": "confusion",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://s4sudhirkr.github.io/ReactDemo/"
+  "homepage": "https://s4sudhirkr.github.io/ReactDemo/",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "bootstrap-social": "^5.1.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^2.1.1",
     "jquery": "^1.9.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -19,8 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-	"predeploy": "npm run build",
-	"deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
