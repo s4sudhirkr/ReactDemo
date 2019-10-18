@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ReactDemo/static/css/main.1740a6f9.chunk.css",
+    "main.js": "/ReactDemo/static/js/main.28615d80.chunk.js",
+    "main.js.map": "/ReactDemo/static/js/main.28615d80.chunk.js.map",
+    "runtime~main.js": "/ReactDemo/static/js/runtime~main.201603d5.js",
+    "runtime~main.js.map": "/ReactDemo/static/js/runtime~main.201603d5.js.map",
+    "static/css/2.8c740ac1.chunk.css": "/ReactDemo/static/css/2.8c740ac1.chunk.css",
+    "static/js/2.5cc601eb.chunk.js": "/ReactDemo/static/js/2.5cc601eb.chunk.js",
+    "static/js/2.5cc601eb.chunk.js.map": "/ReactDemo/static/js/2.5cc601eb.chunk.js.map",
+    "index.html": "/ReactDemo/index.html",
+    "precache-manifest.15abe3d4f88b59fdcceb9b1a6ad80208.js": "/ReactDemo/precache-manifest.15abe3d4f88b59fdcceb9b1a6ad80208.js",
+    "service-worker.js": "/ReactDemo/service-worker.js",
+    "static/css/2.8c740ac1.chunk.css.map": "/ReactDemo/static/css/2.8c740ac1.chunk.css.map",
+    "static/css/main.1740a6f9.chunk.css.map": "/ReactDemo/static/css/main.1740a6f9.chunk.css.map",
+    "static/media/font-awesome.min.css": "/ReactDemo/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
