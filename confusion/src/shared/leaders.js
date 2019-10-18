@@ -3,7 +3,7 @@ export const LEADERS = [
       id: 0,
       name: 'Sh. Dharam Pal Singh',
       mobile: '9896533683',
-      image: '/assets/images/1.jpg',
+      image: '/ReactDemo/assets/images/1.jpg',
       designation: 'President & Founder',
       abbr: 'CEO',
       featured: false,
